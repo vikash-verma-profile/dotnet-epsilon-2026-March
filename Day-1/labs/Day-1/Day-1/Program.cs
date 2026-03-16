@@ -19,6 +19,10 @@
             Console.WriteLine(a+b+c);
         }
 
+        public static void SumSample(params int[] values)
+        {
+            foreach (int v in values) Console.WriteLine(v);
+        }
         public static int Sum(ref int a, ref int b)
         {
             return a + b; 
@@ -27,7 +31,7 @@
         {
            c=a + b;
         }
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Hello, World!");
             int Number1=1,Number2=2;
@@ -41,6 +45,7 @@
             Console.WriteLine(output);
            // sample(1, 2);
             sample(b:1, a:2);
+            SumSample(1, 2, 3, 4,5,6,7,8);
 
         }
     }
