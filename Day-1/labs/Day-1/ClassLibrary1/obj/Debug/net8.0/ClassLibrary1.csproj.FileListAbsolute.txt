@@ -1,0 +1,12 @@
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

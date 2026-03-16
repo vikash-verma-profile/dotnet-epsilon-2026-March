@@ -9,7 +9,7 @@ namespace Day_1
 {
     internal class ArraysSample
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             int[] arrayInts=new int[2];
             arrayInts[0]=1;

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-1\\labs\\Day-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0813E01D-1CBA-0717-E8BA-0E0EE5E81AC5}|Day-1\\Day-1.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-1\\labs\\day-1\\day-1\\arrayssample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0813E01D-1CBA-0717-E8BA-0E0EE5E81AC5}|Day-1\\Day-1.csproj|solutionrelative:day-1\\arrayssample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0813E01D-1CBA-0717-E8BA-0E0EE5E81AC5}|Day-1\\Day-1.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-1\\labs\\day-1\\day-1\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0813E01D-1CBA-0717-E8BA-0E0EE5E81AC5}|Day-1\\Day-1.csproj|solutionrelative:day-1\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArraysSample.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-1\\labs\\Day-1\\Day-1\\ArraysSample.cs",
-              "RelativeDocumentMoniker": "Day-1\\ArraysSample.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-1\\labs\\Day-1\\Day-1\\ArraysSample.cs",
-              "RelativeToolTip": "Day-1\\ArraysSample.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAQwDgAAAA0AAAAAAAAAA==",
+              "Title": "Strings.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-1\\labs\\Day-1\\Day-1\\Strings.cs",
+              "RelativeDocumentMoniker": "Day-1\\Strings.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-1\\labs\\Day-1\\Day-1\\Strings.cs",
+              "RelativeToolTip": "Day-1\\Strings.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAADgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T06:58:41.82Z",
+              "WhenOpened": "2026-03-16T07:34:22.74Z",
               "EditorCaption": ""
             }
           ]

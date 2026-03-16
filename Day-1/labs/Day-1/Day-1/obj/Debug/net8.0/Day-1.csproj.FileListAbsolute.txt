@@ -13,3 +13,7 @@ C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\Day-1\obj\
 C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\Day-1\obj\Debug\net8.0\Day-1.pdb
 C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\Day-1\obj\Debug\net8.0\Day-1.genruntimeconfig.cache
 C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\Day-1\obj\Debug\net8.0\ref\Day-1.dll
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\Day-1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\Day-1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\Day-1\obj\Debug\net8.0\Day-1.csproj.AssemblyReference.cache
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-1\labs\Day-1\Day-1\obj\Debug\net8.0\Day-1.csproj.Up2Date
