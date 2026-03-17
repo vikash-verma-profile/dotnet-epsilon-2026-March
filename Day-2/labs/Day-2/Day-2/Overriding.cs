@@ -41,7 +41,7 @@ namespace Day_2
     }
     internal class Overriding
     {
-        static void Main()
+        static void Main5()
         {
             //TwoWheeler two=new TwoWheeler();
             //two.Print();
