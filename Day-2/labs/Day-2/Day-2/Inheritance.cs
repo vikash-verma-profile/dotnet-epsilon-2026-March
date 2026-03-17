@@ -35,7 +35,7 @@ namespace Day_2
     }
     internal class Inheritance
     {
-        static void Main()
+        static void Main3()
         {
             Person[] person=new Person[3];
             for (int i = 0; i < person.Length; i++)
