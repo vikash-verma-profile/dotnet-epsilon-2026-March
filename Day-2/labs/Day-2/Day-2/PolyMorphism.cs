@@ -31,7 +31,7 @@ namespace Day_2
     }
     internal class PolyMorphism
     {
-        static void Main()
+        static void Main4()
         {
             Sample s1=new Sample(1);
             Sample s2=new Sample(2);
