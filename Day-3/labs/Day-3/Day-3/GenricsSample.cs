@@ -31,7 +31,7 @@ namespace Day_3
     }
     internal class GenricsSample
     {
-        public static void Main()
+        public static void Main4()
         {
             IntegerPrinter integerPrinter = new IntegerPrinter();
             //integerPrinter.Print();
