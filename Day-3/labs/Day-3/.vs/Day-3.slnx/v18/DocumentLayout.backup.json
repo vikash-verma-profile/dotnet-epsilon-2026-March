@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB34D27F-69F2-419B-BB1C-3526782E3FE8}|Day-3\\Day-3.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-3\\labs\\day-3\\day-3\\exceptionsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB34D27F-69F2-419B-BB1C-3526782E3FE8}|Day-3\\Day-3.csproj|solutionrelative:day-3\\exceptionsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40CECD9D-9343-18E4-7E5B-2FF18E0FCF20}|Day-3\\Day-3.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-3\\labs\\day-3\\day-3\\customexceptionsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CECD9D-9343-18E4-7E5B-2FF18E0FCF20}|Day-3\\Day-3.csproj|solutionrelative:day-3\\customexceptionsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExceptionsExample.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\Day-3\\ExceptionsExample.cs",
-              "RelativeDocumentMoniker": "Day-3\\ExceptionsExample.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\Day-3\\ExceptionsExample.cs",
-              "RelativeToolTip": "Day-3\\ExceptionsExample.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Title": "CustomExceptionSample.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\Day-3\\CustomExceptionSample.cs",
+              "RelativeDocumentMoniker": "Day-3\\CustomExceptionSample.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-3\\labs\\Day-3\\Day-3\\CustomExceptionSample.cs",
+              "RelativeToolTip": "Day-3\\CustomExceptionSample.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T03:59:28.705Z",
+              "WhenOpened": "2026-03-18T04:37:00.665Z",
               "EditorCaption": ""
             }
           ]

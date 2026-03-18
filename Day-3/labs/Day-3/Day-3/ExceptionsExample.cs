@@ -8,7 +8,7 @@ namespace Day_3
 {
     internal class ExceptionsExample
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             try
             {
