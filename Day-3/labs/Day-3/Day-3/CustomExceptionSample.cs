@@ -15,7 +15,7 @@ namespace Day_3
     }
     internal class CustomExceptionSample
     {
-        public static void Main()
+        public static void Main3()
         {
             try
             {
