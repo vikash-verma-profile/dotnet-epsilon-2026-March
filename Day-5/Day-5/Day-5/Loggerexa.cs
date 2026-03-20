@@ -38,7 +38,7 @@ namespace Day_5
     }
     internal class Loggerexa
     {
-        public static void Main()
+        public static void Main2()
         {
             //LoggerDelegate logger = Logger.LogToFile;
             //logger += Logger.LogToConsole;
