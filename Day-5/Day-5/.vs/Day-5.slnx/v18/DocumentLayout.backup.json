@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-5\\Day-5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A261D2-7D05-47A4-8EAC-357EADFE24D1}|Day-5\\Day-5.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-5\\day-5\\day-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6A261D2-7D05-47A4-8EAC-357EADFE24D1}|Day-5\\Day-5.csproj|solutionrelative:day-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34C1E950-0B63-43D2-3919-4B00A0F4FDC1}|Day-5\\Day-5.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-5\\day-5\\day-5\\loggerexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C1E950-0B63-43D2-3919-4B00A0F4FDC1}|Day-5\\Day-5.csproj|solutionrelative:day-5\\loggerexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C1E950-0B63-43D2-3919-4B00A0F4FDC1}|Day-5\\Day-5.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-5\\day-5\\day-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C1E950-0B63-43D2-3919-4B00A0F4FDC1}|Day-5\\Day-5.csproj|solutionrelative:day-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Loggerexa.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-5\\Day-5\\Day-5\\Loggerexa.cs",
+              "RelativeDocumentMoniker": "Day-5\\Loggerexa.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-5\\Day-5\\Day-5\\Loggerexa.cs",
+              "RelativeToolTip": "Day-5\\Loggerexa.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:11:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-5\\Day-5\\Day-5\\Program.cs",
               "RelativeDocumentMoniker": "Day-5\\Program.cs",
               "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-5\\Day-5\\Day-5\\Program.cs",
               "RelativeToolTip": "Day-5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T03:50:10.398Z",
               "EditorCaption": ""

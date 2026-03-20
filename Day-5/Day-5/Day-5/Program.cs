@@ -10,9 +10,16 @@
             Console.WriteLine(msg);
         }
 
-        static void Main(string[] args)
+        public static void Print(string msg)
         {
-            MyDelegate del = Show;
+            Console.WriteLine(msg);
+        }
+
+        static void Main1(string[] args)
+        {
+            MyDelegate del = Print;
+            del += Show;
+            del -= Show;
             del("Vikash");
             Console.WriteLine("Hello, World!");
         }
