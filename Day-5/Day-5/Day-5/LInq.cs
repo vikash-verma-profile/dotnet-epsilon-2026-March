@@ -44,6 +44,8 @@ namespace Day_5
             courses.Add(new Course { Id = 2, Name = "Java", StudentId = 2 });
             courses.Add(new Course { Id = 3, Name = "Python", StudentId = 3 });
             courses.Add(new Course { Id = 4, Name = "Go Lang", StudentId = 4 });
+
+            var data = from x in students where x.Id > 3 select x;
             //Console.WriteLine("=========TAKE========");
             //students=students.Take(3).ToList();
             //foreach (var item in students)
@@ -68,11 +70,20 @@ namespace Day_5
             //{
             //    Console.WriteLine($"{item}");
             //}
-            var data = students.
-                Join(courses, s => s.Id, c => c.StudentId, 
-                (s, c)=>new { s.Id,s.Name,CourseName=c.Name});
+            //var data = students.
+            //    Join(courses, s => s.Id, c => c.StudentId, 
+            //    (s, c)=>new { s.Id,s.Name,CourseName=c.Name});
 
-            foreach (var item in data)
+            //foreach (var item in data)
+            //{
+            //    Console.WriteLine($"{item.Id}|{item.Name}|{item.CourseName}");
+            //}
+
+            var studentcourseData= from s in students 
+                                   join c in courses on s.Id equals c.StudentId
+                                   select new { s.Id, s.Name, CourseName = c.Name };
+
+            foreach (var item in studentcourseData)
             {
                 Console.WriteLine($"{item.Id}|{item.Name}|{item.CourseName}");
             }
