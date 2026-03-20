@@ -11,6 +11,12 @@ namespace Day_5
         public int Id { get; set; }
         public string Name { get; set; }
     }
+    class Course
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }    
+        public int StudentId { get; set; }
+    }
     internal class LInq
     {
         public static void Main()
@@ -31,6 +37,13 @@ namespace Day_5
             students.Add(new Student { Id = 2, Name = "Rahul" });
             students.Add(new Student { Id = 3, Name = "Rakesh" });
             students.Add(new Student { Id = 4, Name = "SUkesh" });
+
+
+            List<Course> courses = new List<Course>();
+            courses.Add(new Course { Id = 1, Name = "C#",StudentId=1 });
+            courses.Add(new Course { Id = 2, Name = "Java", StudentId = 2 });
+            courses.Add(new Course { Id = 3, Name = "Python", StudentId = 3 });
+            courses.Add(new Course { Id = 4, Name = "Go Lang", StudentId = 4 });
             //Console.WriteLine("=========TAKE========");
             //students=students.Take(3).ToList();
             //foreach (var item in students)
@@ -50,10 +63,18 @@ namespace Day_5
             //{
             //    Console.WriteLine($"{item.Id}-{item.Name}");
             //}
-            var studentList=students.Select(x => x.Name).ToList();
-            foreach (var item in studentList)
+            //var studentList=students.OrderBy(x=>x.Id).Where(x=>x.Id>3).Select(x => x.Name).ToList();
+            //foreach (var item in studentList)
+            //{
+            //    Console.WriteLine($"{item}");
+            //}
+            var data = students.
+                Join(courses, s => s.Id, c => c.StudentId, 
+                (s, c)=>new { s.Id,s.Name,CourseName=c.Name});
+
+            foreach (var item in data)
             {
-                Console.WriteLine($"{item}");
+                Console.WriteLine($"{item.Id}|{item.Name}|{item.CourseName}");
             }
         }
     }
