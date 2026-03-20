@@ -13,7 +13,7 @@ namespace Day_5
         {
             return a + b;
         }
-        public static void Main()
+        public static void Main3()
         {
             var x = new { id = 1, name = "Vikash" };
             var y=()=>Console.WriteLine("Hello from vikash");
