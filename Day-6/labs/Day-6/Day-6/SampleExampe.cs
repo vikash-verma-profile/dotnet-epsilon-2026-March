@@ -33,13 +33,13 @@ namespace Day_6
                 {
                     //
                 }
-                isDisposing = false;
+                isDisposing = true;
             }
         }
 
         ~SampleImplemation()
         {
-            Dispose(true);
+            Dispose(false);
         }
     }
     internal class SampleExampe
