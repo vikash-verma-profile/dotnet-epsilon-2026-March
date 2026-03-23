@@ -8,7 +8,7 @@ namespace Day_6
 {
     internal class StreamsExample
     {
-        public static void Main()
+        public static void Main2()
         {
             using (FileStream fs = new FileStream("sample5.txt", FileMode.Append))
             {
@@ -22,12 +22,12 @@ namespace Day_6
 
                 using (StreamReader sr = new StreamReader(fs))
                 {
+                    string line;
+                    while ((line = sr.ReadLine()) != null)
+                    {
+                        Console.WriteLine(line);
+                    }
 
-                    //while(sr.Read()>0)
-                    //{
-                    //    Console.WriteLine(sr.ReadLine());
-                    //}
-                    
                 }
             }
         }
