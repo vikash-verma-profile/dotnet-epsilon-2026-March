@@ -17,16 +17,19 @@
     }
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
-            string filePath = "sample1.txt";
+            string filePath = "sample3.txt";
             if (File.Exists(filePath))
             {
                 File.AppendAllLines(filePath, new string[] { "My Name is Vikash new " });
             }
             else
             {
-                File.Create(filePath);
+                using (File.Create(filePath));
+                //File.Create(filePath).Dispose() ;
+                File.WriteAllLines(filePath, new string[] { "My Name is Vikash new " });
+
             }
             var data=File.ReadAllLines(filePath);
             foreach (var line in data)
