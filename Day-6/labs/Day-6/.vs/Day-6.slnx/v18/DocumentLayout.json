@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-6\\labs\\day-6\\day-6\\sampleexampe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|solutionrelative:day-6\\sampleexampe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-6\\labs\\day-6\\day-6\\threadsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|solutionrelative:day-6\\threadsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SampleExampe.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\SampleExampe.cs",
-              "RelativeDocumentMoniker": "Day-6\\SampleExampe.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\SampleExampe.cs",
-              "RelativeToolTip": "Day-6\\SampleExampe.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Title": "ThreadSample.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\ThreadSample.cs",
+              "RelativeDocumentMoniker": "Day-6\\ThreadSample.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\ThreadSample.cs",
+              "RelativeToolTip": "Day-6\\ThreadSample.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T05:39:33.265Z",
+              "WhenOpened": "2026-03-23T07:19:24.209Z",
               "EditorCaption": ""
             }
           ]

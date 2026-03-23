@@ -45,7 +45,7 @@ namespace Day_6
     internal class SampleExampe
     {
 
-        public static void Main()
+        public static void Main3()
         {
             SampleImplemation sample=new SampleImplemation();
             sample.Dispose();
