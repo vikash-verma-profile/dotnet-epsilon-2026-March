@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-6\\labs\\day-6\\day-6\\threadsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|solutionrelative:day-6\\threadsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-6\\labs\\day-6\\day-6\\taskexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|solutionrelative:day-6\\taskexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-6\\labs\\day-6\\day-6\\problemexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07C67EB-22B9-9892-5F1F-7D29B3D45FDC}|Day-6\\Day-6.csproj|solutionrelative:day-6\\problemexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ThreadSample.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\ThreadSample.cs",
-              "RelativeDocumentMoniker": "Day-6\\ThreadSample.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\ThreadSample.cs",
-              "RelativeToolTip": "Day-6\\ThreadSample.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAqAAAAAAAAAA==",
+              "Title": "TaskExample.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\TaskExample.cs",
+              "RelativeDocumentMoniker": "Day-6\\TaskExample.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\TaskExample.cs",
+              "RelativeToolTip": "Day-6\\TaskExample.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T07:19:24.209Z",
+              "WhenOpened": "2026-03-23T07:44:43.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProblemExample.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\ProblemExample.cs",
+              "RelativeDocumentMoniker": "Day-6\\ProblemExample.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-6\\labs\\Day-6\\Day-6\\ProblemExample.cs",
+              "RelativeToolTip": "Day-6\\ProblemExample.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:44:37.678Z",
               "EditorCaption": ""
             }
           ]

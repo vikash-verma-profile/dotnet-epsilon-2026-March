@@ -15,7 +15,7 @@ namespace Day_6
                 Console.WriteLine(i);
             }
         }
-        public static void Main()
+        public static void Main5()
         {
             Thread s1 = new Thread(Print);
             s1.Start();
