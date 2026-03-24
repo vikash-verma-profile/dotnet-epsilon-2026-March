@@ -4,7 +4,7 @@ namespace Day_7
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string connectionString = "Data Source=DESKTOP-CUO3FKB;Initial Catalog=ConnectionTestDB;Integrated Security=True;";
             SqlConnection connection = new SqlConnection(connectionString);
