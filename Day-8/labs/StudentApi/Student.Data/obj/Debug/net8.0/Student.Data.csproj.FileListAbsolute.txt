@@ -1,0 +1,5 @@
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Data\obj\Debug\net8.0\Student.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Data\obj\Debug\net8.0\Student.Data.AssemblyInfoInputs.cache
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Data\obj\Debug\net8.0\Student.Data.AssemblyInfo.cs
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Data\obj\Debug\net8.0\Student.Data.csproj.CoreCompileInputs.cache
+C:\Users\om\Desktop\dotnet\dotnet-epsilon-2026-March\Day-8\labs\StudentApi\Student.Data\obj\Debug\net8.0\Student.Data.sourcelink.json
