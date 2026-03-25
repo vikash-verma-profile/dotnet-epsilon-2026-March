@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Student.Business;
+using Student.Data;
 
 namespace StudentApi.Controllers
 {
@@ -7,12 +9,16 @@ namespace StudentApi.Controllers
     [ApiController]
     public class StudentController : ControllerBase
     {
-
+        StudentService studentService;
+        public StudentController(StudentService _studentService)
+        {
+            studentService=_studentService;
+        }
         [Route("get-all-students")]
         [HttpGet]
         public IActionResult getAllStundents()
         {
-            return Ok("hi");
+            return Ok(studentService.GetStudents());
         }
     }
 }
