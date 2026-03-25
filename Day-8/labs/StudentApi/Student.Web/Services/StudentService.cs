@@ -16,7 +16,7 @@ namespace Student.Web.Services
             if (result.Result.IsSuccessStatusCode)
             {
                 var data=result.Result.Content.ReadAsStringAsync().Result;
-                return JsonSerializer.Deserialize<List<Students>>(data);
+                return JsonSerializer.Deserialize<List<Students>>(data, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
             }
             else
             {

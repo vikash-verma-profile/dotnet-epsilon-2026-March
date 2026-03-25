@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-8\\labs\\StudentApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E8CF24D-B089-4301-833A-C32877354730}|Student.Web\\Student.Web.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-8\\labs\\studentapi\\student.web\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8CF24D-B089-4301-833A-C32877354730}|Student.Web\\Student.Web.csproj|solutionrelative:student.web\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E8CF24D-B089-4301-833A-C32877354730}|Student.Web\\Student.Web.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-8\\labs\\studentapi\\student.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8CF24D-B089-4301-833A-C32877354730}|Student.Web\\Student.Web.csproj|solutionrelative:student.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8CF24D-B089-4301-833A-C32877354730}|Student.Web\\Student.Web.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-8\\labs\\studentapi\\student.web\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8CF24D-B089-4301-833A-C32877354730}|Student.Web\\Student.Web.csproj|solutionrelative:student.web\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8CF24D-B089-4301-833A-C32877354730}|Student.Web\\Student.Web.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-8\\labs\\studentapi\\student.web\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8CF24D-B089-4301-833A-C32877354730}|Student.Web\\Student.Web.csproj|solutionrelative:student.web\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8CF24D-B089-4301-833A-C32877354730}|Student.Web\\Student.Web.csproj|c:\\users\\om\\desktop\\dotnet\\dotnet-epsilon-2026-march\\day-8\\labs\\studentapi\\student.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,19 +38,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-8\\labs\\StudentApi\\Student.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Student.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-8\\labs\\StudentApi\\Student.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Student.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T07:53:09.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Students.cs",
               "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-8\\labs\\StudentApi\\Student.Web\\Models\\Students.cs",
               "RelativeDocumentMoniker": "Student.Web\\Models\\Students.cs",
               "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-8\\labs\\StudentApi\\Student.Web\\Models\\Students.cs",
               "RelativeToolTip": "Student.Web\\Models\\Students.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T07:44:19.617Z",
+              "WhenOpened": "2026-03-25T07:51:44.092Z",
               "EditorCaption": ""
             },
             {
@@ -68,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-8\\labs\\StudentApi\\Student.Web\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Student.Web\\Services\\StudentService.cs",
               "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-8\\labs\\StudentApi\\Student.Web\\Services\\StudentService.cs",
               "RelativeToolTip": "Student.Web\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T07:19:32.233Z",
               "EditorCaption": ""
@@ -89,8 +102,7 @@
               "RelativeToolTip": "Student.Web\\Services\\IStudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T07:19:15.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T07:19:15.998Z"
             },
             {
               "$type": "Document",
@@ -102,8 +114,7 @@
               "RelativeToolTip": "Student.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-25T06:56:33.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T06:56:33.271Z"
             },
             {
               "$type": "Document",
@@ -115,21 +126,7 @@
               "RelativeToolTip": "Student.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-25T06:56:15.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-8\\labs\\StudentApi\\Student.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Student.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-8\\labs\\StudentApi\\Student.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Student.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T06:56:03.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T06:56:15.19Z"
             }
           ]
         }
