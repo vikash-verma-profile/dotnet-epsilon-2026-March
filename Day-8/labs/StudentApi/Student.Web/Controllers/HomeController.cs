@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Student.Web.Models;
+using Student.Web.Services;
 using System.Diagnostics;
 
 namespace Student.Web.Controllers
@@ -8,9 +9,12 @@ namespace Student.Web.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IStudentService _service;
+
+        public HomeController(ILogger<HomeController> logger,IStudentService service)
         {
             _logger = logger;
+            _service = service;
         }
 
         public IActionResult Index()
@@ -19,7 +23,8 @@ namespace Student.Web.Controllers
         }
         public IActionResult StudentList()
         {
-            return View();
+            var data = _service.GetStudents();
+            return View(data);
         }
         public IActionResult Privacy()
         {

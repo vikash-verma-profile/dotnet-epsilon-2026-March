@@ -1,4 +1,4 @@
-﻿
+﻿@model IEnumerable<Students>
 @{
     ViewData["Title"] = "StudentList";
 }
@@ -12,11 +12,15 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Mark</td>
-            <td>Otto</td>
-            <td>mdo</td>
-        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Gender</td>
+                <td>@item.Age</td>
+            </tr>
+        }
+       
     </tbody>
 </table>
 
