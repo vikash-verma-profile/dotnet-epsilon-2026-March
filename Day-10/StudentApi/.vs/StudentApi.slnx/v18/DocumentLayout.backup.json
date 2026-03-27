@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "StudentApi\\Program.cs",
               "ToolTip": "C:\\Users\\om\\Desktop\\dotnet\\dotnet-epsilon-2026-March\\Day-10\\StudentApi\\StudentApi\\Program.cs",
               "RelativeToolTip": "StudentApi\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAADQAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwPUkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T04:23:29.32Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "StudentApi\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAwwBEAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T04:21:35.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T04:21:35.809Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "StudentApi\\Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T04:09:58.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T04:09:58.251Z"
             }
           ]
         }
